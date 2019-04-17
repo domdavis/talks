@@ -4,6 +4,7 @@ This page contains a list of some of the talks I've done.
 
 | Event |Title | URL |
 | ----- | ---- | --- |
+| ACCUConf 2019 | Go Get Better (40 minute intoduction to Go) | https://www.youtube.com/watch?v=LuI9WQoVHVE |
 | ACCUConf 2018 | If you're happy and you know it (inside the mind of a developer) | https://www.youtube.com/watch?v=2e6a-sim5uI |
 | Graph Connect Europe 2017 | Decyphering The Graph Model | https://www.youtube.com/watch?v=5d4wh2wBxCU |
 | ACCUConf 2017 | Passwords. Are. Not. Hard! | https://www.youtube.com/watch?v=Sea1LMCZYt8 |
