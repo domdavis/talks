@@ -58,6 +58,7 @@ publicly available.
 
 | Event |Title | URL |
 | ----- | ---- | --- |
+| ACCUConf 2019 | It's people! Code is made out of people! | https://youtu.be/jiJesVwkXPw |
 | ACCUConf 2019 | Go Get Better (40 minute introduction to Go) | https://www.youtube.com/watch?v=LuI9WQoVHVE |
 | ACCUConf 2018 | If you're happy and you know it (inside the mind of a developer) | https://www.youtube.com/watch?v=2e6a-sim5uI |
 | Graph Connect Europe 2017 | Decyphering The Graph Model | https://www.youtube.com/watch?v=5d4wh2wBxCU |
