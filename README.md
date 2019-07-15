@@ -66,5 +66,6 @@ publicly available.
 | Scalapeño 2016 | Fake it until you make it: Dealing with imposter syndrome | https://www.youtube.com/watch?v=hN2aRey3jLw |
 | NorDevCon 2016 | Fake it until you make it: Dealing with imposter syndrome | https://www.infoq.com/presentations/impostor-syndrome |
 | Norfolk Developers | Space, the final frontier | https://www.youtube.com/watch?v=6GLOriW3ZXk |
+| Norfolk Developers | An introduction to CoreOS | https://www.youtube.com/watch?v=L42AfSLDIk8 |
 | JobHop Vlog | Dom Davis from Tech Marionette on Company Culture | https://www.youtube.com/watch?v=AExN7ufY45s |
 | NorDevCon 2014 | Just A Minute | https://www.youtube.com/watch?v=JJa4hHeHabg |
