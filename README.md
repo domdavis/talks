@@ -20,7 +20,7 @@ blend of irreverent sarcasm and flippant humour to bring complex subjects to a
 broad audience. Whether or not they understand him is up for debate, but he
 likes to believe they do.
 
-## Management/Process focused bio
+### Management/Process focused bio
 
 Dom Davis is a veteran of The City and a casualty of The Financial Crisis. Not
 content with bringing the world to its knees he then went off to help break the
@@ -31,7 +31,7 @@ blend of irreverent sarcasm and flippant humour to bring complex subjects to a
 broad audience. Whether or not they understand him is up for debate, but he
 likes to believe they do.
 
-# Corporate bio (a.k.a The Boring One)
+### Corporate bio (a.k.a The Boring One)
 
 Dom Davis is CTO and co-founder of Tech Marionette, a vibrant tech startup based
 out of Norfolk. He is also a director at Step into Tech, a Community Interest
