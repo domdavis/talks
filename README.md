@@ -58,6 +58,7 @@ publicly available.
 
 | Event |Title | URL |
 | ----- | ---- | --- |
+| Hot Source Festive Talks | Combichrist (Joy to the world) - **NSFW: Swearing** | https://www.youtube.com/watch?v=LeNX-Db31c4 |
 | ACCUConf 2019 | It's people! Code is made out of people! | https://youtu.be/jiJesVwkXPw |
 | ACCUConf 2019 | Go Get Better (40 minute introduction to Go) | https://www.youtube.com/watch?v=LuI9WQoVHVE |
 | ACCUConf 2018 | If you're happy and you know it (inside the mind of a developer) | https://www.youtube.com/watch?v=2e6a-sim5uI |
