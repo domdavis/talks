@@ -45,7 +45,8 @@ Dom is one of the leading lights of the Norfolk tech scene.
 ## Head Shot
 
 My [standard head shot](domdavis.png) is included in this repository. I've also
-provided a [cartoon variant](domdavis-cartoon.jpg), one of my alter ego 
+provided a [cartoon variant](domdavis-cartoon.jpg), 
+[lego minifig](domdavis-minifig.png), one of my alter ego 
 [CMDR Davis](cmdrdavis.png) for more gaming oriented talks, and an older, but
 [fun image](domdavis-alt.png) of me which is far less recognisably me.
 
