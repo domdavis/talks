@@ -42,13 +42,16 @@ fields as diverse as investment banking, advertising, e-commerce and artificial
 intelligence. A Techstars alumni and mentor, author and international speaker,
 Dom is one of the leading lights of the Norfolk tech scene.
 
-## Head Shot
+## Headshots
 
-My [standard head shot](domdavis.png) is included in this repository. I've also
-provided a [cartoon variant](domdavis-cartoon.jpg), 
-[lego minifig](domdavis-minifig.png), one of my alter ego 
-[CMDR Davis](cmdrdavis.png) for more gaming oriented talks, and an older, but
-[fun image](domdavis-alt.png) of me which is far less recognisably me.
+Generally I use my [standard head shot](domdavis.png), however the following
+can be used depending on need/style:
+
+  * [Illustrated](domdavis-illustration.jpg)
+  * [Cartoon](domdavis-cartoon.jpg)
+  * [LEGO Mini-Figure](domdavis-minifig.png)
+  * [Gaming](cmdrdavis.png)
+  * [Fun](domdavis-alt.png)
 
 Please contact me if you require something different.
 
