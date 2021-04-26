@@ -62,6 +62,7 @@ publicly available.
 
 | Event |Title | URL |
 | ----- | ---- | --- |
+| ACCUConf 2021 | Hi, I'm Dom, and I Have Depression - Trigger warnings, swearing | https://youtu.be/XftQwCDHdtE |
 | Hot Source Festive Talks | Combichrist (Joy to the world) - **NSFW: Swearing** | https://www.youtube.com/watch?v=LeNX-Db31c4 |
 | ACCUConf 2019 | It's people! Code is made out of people! | https://youtu.be/jiJesVwkXPw |
 | ACCUConf 2019 | Go Get Better (40 minute introduction to Go) | https://www.youtube.com/watch?v=LuI9WQoVHVE |
