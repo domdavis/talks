@@ -1,0 +1,61 @@
+run:
+  concurrency: 1
+
+linters-settings:
+  govet:
+    check-shadowing: true
+  gocyclo:
+    min-complexity: 10
+  maligned:
+    suggest-new: true
+  dupl:
+    threshold: 100
+  misspell:
+    locale: UK
+    ignore-words:
+      - davisd
+  lll:
+    line-length: 120
+    tab-width: 4
+  nakedret:
+    max-func-lines: 0
+linters:
+  enable-all: true
+  disable:
+    - gochecknoglobals
+    - scopelint
+    - prealloc
+    - exhaustivestruct
+    - gofumpt
+    - gci
+    - forbidigo
+    - nlreturn
+
+issues:
+  exclude-rules:
+    - path: _test\.go
+      linters:
+        - gocyclo
+        - errcheck
+        - dupl
+        - gosec
+        - wsl
+        - funlen
+        - gomnd
+        - gocognit
+        - paralleltest
+    - text: "`Color` is a misspelling of `Colour`"
+      linters:
+          - misspell
+    - text: "weak cryptographic primitive"
+      linters:
+        - gosec
+    - text: "G104"
+      linters:
+        - gosec
+    - text: "Magic number: 1"
+      linters:
+        - gomnd
+  exclude-use-default: false
+  max-issues-per-linter: 0
+  max-same-issues: 0
