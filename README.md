@@ -62,6 +62,7 @@ publicly available.
 
 | Event |Title | URL |
 | ----- | ---- | --- |
+| ACCUConf 2022 | Remove is a four letter word | https://youtu.be/y7Af2BZvcJM |
 | ACCUConf 2021 | Hi, I'm Dom, and I Have Depression - Trigger warnings, swearing | https://youtu.be/XftQwCDHdtE |
 | Hot Source Festive Talks | Combichrist (Joy to the world) - **NSFW: Swearing** | https://www.youtube.com/watch?v=LeNX-Db31c4 |
 | ACCUConf 2019 | It's people! Code is made out of people! | https://youtu.be/jiJesVwkXPw |
