@@ -62,6 +62,8 @@ publicly available.
 
 | Event |Title | URL |
 | ----- | ---- | --- |
+| ACCUConf 2022 | This One's For My Mum | https://www.youtube.com/watch?v=COsMlZrAQGM |
+| ACCUConf 2022 | Beelzebub Has A Devil Put Aside For Me | https://youtu.be/rpdBh6UCZHY |
 | ACCUConf 2022 | Throwing Graphs at COVID | https://youtu.be/kY4oM-e8Yxc |
 | ACCUConf 2022 | Remote is a four letter word | https://youtu.be/y7Af2BZvcJM |
 | ACCUConf 2021 | Auld Lang | https://www.youtube.com/watch?v=iqzFGzay7U4 |
