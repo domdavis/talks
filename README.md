@@ -62,6 +62,7 @@ publicly available.
 
 | Event |Title | URL |
 | ----- | ---- | --- |
+| ACCUConf 2023 | A Generic Talk About Go | https://youtu.be/dn5evB9DQ50 |
 | ACCUConf 2022 | This One's For My Mum | https://www.youtube.com/watch?v=COsMlZrAQGM |
 | ACCUConf 2022 | Beelzebub Has A Devil Put Aside For Me | https://youtu.be/rpdBh6UCZHY |
 | ACCUConf 2022 | Throwing Graphs at COVID | https://youtu.be/kY4oM-e8Yxc |
