@@ -62,6 +62,7 @@ publicly available.
 
 | Event |Title | URL |
 | ----- | ---- | --- |
+| ACCUConf 2024 | Embracing the Neurospicey | https://www.youtube.com/watch?v=bt25w_O05KI |
 | ACCUConf 2023 | The Cyrilic Alphabet | https://www.youtube.com/watch?v=t0ZWb7hYR7Y |
 | ACCUConf 2023 | \|\|Tism | https://www.youtube.com/watch?v=gH3FJEkkPQs |
 | ACCUConf 2023 | A Generic Talk About Go | https://youtu.be/dn5evB9DQ50 |
