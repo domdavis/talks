@@ -24,7 +24,8 @@ likes to believe they do.
 
 Dom Davis is a veteran of The City and a casualty of The Financial Crisis. Not
 content with bringing the world to its knees he then went off to help break the
-internet before winding up in Norfolk where he is now CTO of a tech startup.
+internet before winding up in Norfolk where he now wears a number of hats,
+including CTO on demand and Senior Software Engineer.
 
 Dom is an enthusiastic and impassioned speaker [read: he gabbles] who uses a
 blend of irreverent sarcasm and flippant humour to bring complex subjects to a
@@ -33,9 +34,10 @@ likes to believe they do.
 
 ### Corporate bio (a.k.a The Boring One)
 
-Dom Davis is CTO and co-founder of Tech Marionette, a vibrant tech startup based
-out of Norfolk. He is also a director at Step into Tech, a Community Interest
-Company aimed at helping get young people into tech.
+Dom Davis brings his wealth of experience to bear on a number of roles, 
+including CTO on domand for a number of companies. He is also a director at 
+Step into Tech, a Community Interest Company aimed at helping get young 
+people into tech.
 
 Dom has over two decades of development and operational experience gained in
 fields as diverse as investment banking, advertising, e-commerce and artificial
